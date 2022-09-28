@@ -16,5 +16,3 @@ jobs:
           # to the issue
           project-url: https://github.com/users/omegaleo/projects/4
           github-token: ${{ secrets.token }}
-          labeled: bug, suggestion
-          label-operator: OR
